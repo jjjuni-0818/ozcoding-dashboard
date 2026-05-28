@@ -8,3 +8,8 @@ __pycache__/
 .env
 design-canvas.jsx
 data/
+src/
+screenshots/
+uploads/
+기획안.html
+대시보드.html
