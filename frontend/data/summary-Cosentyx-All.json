@@ -1,0 +1,14 @@
+{
+  "brand": "Cosentyx",
+  "region": "All",
+  "asOf": "2025-12-31",
+  "cost": 88089869,
+  "clms": 14632,
+  "hcpCount": 594,
+  "rising": 152,
+  "lapsed": 146,
+  "declining": 139,
+  "vsLyCost": 12.4,
+  "vsLyClms": 8.1,
+  "vsLyHcp": -2.3
+}

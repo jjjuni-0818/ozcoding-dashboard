@@ -1,0 +1,5 @@
+# Backend dependencies
+fastapi==0.115.0
+uvicorn[standard]==0.32.0
+pandas==2.2.3
+pydantic==2.9.2

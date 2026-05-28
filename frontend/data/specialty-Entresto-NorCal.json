@@ -1,0 +1,44 @@
+[
+  {
+    "specialty": "Cardiology",
+    "cost": 23313829,
+    "clms": 20383,
+    "hcps": 344
+  },
+  {
+    "specialty": "Interventional Cardiology",
+    "cost": 4189106,
+    "clms": 3269,
+    "hcps": 52
+  },
+  {
+    "specialty": "Internal Medicine",
+    "cost": 3547840,
+    "clms": 4156,
+    "hcps": 137
+  },
+  {
+    "specialty": "Nurse Practitioner",
+    "cost": 2942859,
+    "clms": 2931,
+    "hcps": 57
+  },
+  {
+    "specialty": "Advanced Heart Failure and Transplant Cardiology",
+    "cost": 1737506,
+    "clms": 1744,
+    "hcps": 12
+  },
+  {
+    "specialty": "Pharmacist",
+    "cost": 1474560,
+    "clms": 1257,
+    "hcps": 17
+  },
+  {
+    "specialty": "Physician Assistant",
+    "cost": 1145801,
+    "clms": 951,
+    "hcps": 32
+  }
+]

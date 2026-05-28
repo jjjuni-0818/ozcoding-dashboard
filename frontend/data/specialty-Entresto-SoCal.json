@@ -1,0 +1,44 @@
+[
+  {
+    "specialty": "Cardiology",
+    "cost": 54676550,
+    "clms": 53455,
+    "hcps": 670
+  },
+  {
+    "specialty": "Internal Medicine",
+    "cost": 13994391,
+    "clms": 16982,
+    "hcps": 511
+  },
+  {
+    "specialty": "Interventional Cardiology",
+    "cost": 7836006,
+    "clms": 7533,
+    "hcps": 106
+  },
+  {
+    "specialty": "Nurse Practitioner",
+    "cost": 7444938,
+    "clms": 7406,
+    "hcps": 172
+  },
+  {
+    "specialty": "Advanced Heart Failure and Transplant Cardiology",
+    "cost": 5328143,
+    "clms": 4782,
+    "hcps": 42
+  },
+  {
+    "specialty": "Clinical Cardiac Electrophysiology",
+    "cost": 4821919,
+    "clms": 4572,
+    "hcps": 62
+  },
+  {
+    "specialty": "Family Practice",
+    "cost": 3997068,
+    "clms": 5175,
+    "hcps": 213
+  }
+]

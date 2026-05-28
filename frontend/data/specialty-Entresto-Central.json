@@ -1,0 +1,44 @@
+[
+  {
+    "specialty": "Cardiology",
+    "cost": 17620465,
+    "clms": 15373,
+    "hcps": 208
+  },
+  {
+    "specialty": "Internal Medicine",
+    "cost": 3845004,
+    "clms": 5008,
+    "hcps": 157
+  },
+  {
+    "specialty": "Nurse Practitioner",
+    "cost": 3301945,
+    "clms": 3265,
+    "hcps": 67
+  },
+  {
+    "specialty": "Interventional Cardiology",
+    "cost": 2850529,
+    "clms": 2622,
+    "hcps": 36
+  },
+  {
+    "specialty": "Family Practice",
+    "cost": 1817922,
+    "clms": 2569,
+    "hcps": 116
+  },
+  {
+    "specialty": "Physician Assistant",
+    "cost": 1304316,
+    "clms": 1229,
+    "hcps": 35
+  },
+  {
+    "specialty": "Clinical Cardiac Electrophysiology",
+    "cost": 831558,
+    "clms": 726,
+    "hcps": 10
+  }
+]

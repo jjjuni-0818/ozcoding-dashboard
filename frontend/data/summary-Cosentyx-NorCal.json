@@ -1,0 +1,14 @@
+{
+  "brand": "Cosentyx",
+  "region": "NorCal",
+  "asOf": "2025-12-31",
+  "cost": 28984139,
+  "clms": 5123,
+  "hcpCount": 201,
+  "rising": 59,
+  "lapsed": 50,
+  "declining": 45,
+  "vsLyCost": 12.4,
+  "vsLyClms": 8.1,
+  "vsLyHcp": -2.3
+}

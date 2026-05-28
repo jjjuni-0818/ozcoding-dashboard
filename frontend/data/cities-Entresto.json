@@ -1,0 +1,2238 @@
+[
+  {
+    "city": "Los Angeles",
+    "region": "SoCal",
+    "coords": [
+      34.05,
+      -118.24
+    ],
+    "Entresto": 14432338,
+    "Cosentyx": 5190799,
+    "Lucentis": 0,
+    "clms": 16627,
+    "prescribers": 341
+  },
+  {
+    "city": "Fresno",
+    "region": "Central",
+    "coords": [
+      36.74,
+      -119.78
+    ],
+    "Entresto": 6011488,
+    "Cosentyx": 1768174,
+    "Lucentis": 0,
+    "clms": 5507,
+    "prescribers": 98
+  },
+  {
+    "city": "Sacramento",
+    "region": "NorCal",
+    "coords": [
+      38.58,
+      -121.49
+    ],
+    "Entresto": 5553677,
+    "Cosentyx": 5031161,
+    "Lucentis": 0,
+    "clms": 6262,
+    "prescribers": 126
+  },
+  {
+    "city": "San Diego",
+    "region": "SoCal",
+    "coords": [
+      32.71,
+      -117.16
+    ],
+    "Entresto": 5307117,
+    "Cosentyx": 4316200,
+    "Lucentis": 0,
+    "clms": 6036,
+    "prescribers": 162
+  },
+  {
+    "city": "Glendale",
+    "region": "SoCal",
+    "coords": [
+      34.15,
+      -118.25
+    ],
+    "Entresto": 5279080,
+    "Cosentyx": 783350,
+    "Lucentis": 0,
+    "clms": 6671,
+    "prescribers": 70
+  },
+  {
+    "city": "San Francisco",
+    "region": "NorCal",
+    "coords": [
+      37.77,
+      -122.41
+    ],
+    "Entresto": 4260739,
+    "Cosentyx": 3060998,
+    "Lucentis": 0,
+    "clms": 4793,
+    "prescribers": 130
+  },
+  {
+    "city": "Orange",
+    "region": "SoCal",
+    "coords": [
+      33.79,
+      -117.85
+    ],
+    "Entresto": 3824350,
+    "Cosentyx": 1096559,
+    "Lucentis": 0,
+    "clms": 3715,
+    "prescribers": 65
+  },
+  {
+    "city": "Santa Rosa",
+    "region": "NorCal",
+    "coords": [
+      38.44,
+      -122.71
+    ],
+    "Entresto": 3536228,
+    "Cosentyx": 1601298,
+    "Lucentis": 0,
+    "clms": 3256,
+    "prescribers": 48
+  },
+  {
+    "city": "Pasadena",
+    "region": "SoCal",
+    "coords": [
+      34.15,
+      -118.14
+    ],
+    "Entresto": 3389683,
+    "Cosentyx": 1352860,
+    "Lucentis": 0,
+    "clms": 3659,
+    "prescribers": 53
+  },
+  {
+    "city": "Loma Linda",
+    "region": "SoCal",
+    "coords": [
+      34.04,
+      -117.26
+    ],
+    "Entresto": 2987036,
+    "Cosentyx": 680785,
+    "Lucentis": 0,
+    "clms": 2613,
+    "prescribers": 38
+  },
+  {
+    "city": "San Jose",
+    "region": "NorCal",
+    "coords": [
+      37.33,
+      -121.88
+    ],
+    "Entresto": 2796565,
+    "Cosentyx": 1588732,
+    "Lucentis": 0,
+    "clms": 2774,
+    "prescribers": 60
+  },
+  {
+    "city": "La Jolla",
+    "region": "SoCal",
+    "coords": [
+      32.83,
+      -117.27
+    ],
+    "Entresto": 2656759,
+    "Cosentyx": 1030032,
+    "Lucentis": 0,
+    "clms": 2599,
+    "prescribers": 54
+  },
+  {
+    "city": "Bakersfield",
+    "region": "Central",
+    "coords": [
+      35.37,
+      -119.02
+    ],
+    "Entresto": 2574173,
+    "Cosentyx": 1104999,
+    "Lucentis": 0,
+    "clms": 2979,
+    "prescribers": 55
+  },
+  {
+    "city": "Torrance",
+    "region": "SoCal",
+    "coords": [
+      33.84,
+      -118.34
+    ],
+    "Entresto": 2341755,
+    "Cosentyx": 914276,
+    "Lucentis": 0,
+    "clms": 2284,
+    "prescribers": 53
+  },
+  {
+    "city": "La Mesa",
+    "region": "SoCal",
+    "coords": [
+      32.76,
+      -117.02
+    ],
+    "Entresto": 2187026,
+    "Cosentyx": 423234,
+    "Lucentis": 0,
+    "clms": 2022,
+    "prescribers": 26
+  },
+  {
+    "city": "Redding",
+    "region": "NorCal",
+    "coords": [
+      40.59,
+      -122.39
+    ],
+    "Entresto": 2125470,
+    "Cosentyx": 1514589,
+    "Lucentis": 0,
+    "clms": 1838,
+    "prescribers": 27
+  },
+  {
+    "city": "Beverly Hills",
+    "region": "SoCal",
+    "coords": [
+      34.07,
+      -118.4
+    ],
+    "Entresto": 2080170,
+    "Cosentyx": 553344,
+    "Lucentis": 0,
+    "clms": 2008,
+    "prescribers": 48
+  },
+  {
+    "city": "Stockton",
+    "region": "NorCal",
+    "coords": [
+      37.96,
+      -121.29
+    ],
+    "Entresto": 2040327,
+    "Cosentyx": 113303,
+    "Lucentis": 0,
+    "clms": 2136,
+    "prescribers": 38
+  },
+  {
+    "city": "Rancho Mirage",
+    "region": "SoCal",
+    "coords": [
+      33.73,
+      -116.42
+    ],
+    "Entresto": 2023391,
+    "Cosentyx": 890828,
+    "Lucentis": 0,
+    "clms": 1853,
+    "prescribers": 40
+  },
+  {
+    "city": "Oakland",
+    "region": "NorCal",
+    "coords": [
+      37.8,
+      -122.27
+    ],
+    "Entresto": 2016971,
+    "Cosentyx": 850540,
+    "Lucentis": 0,
+    "clms": 1979,
+    "prescribers": 53
+  },
+  {
+    "city": "Anaheim",
+    "region": "SoCal",
+    "coords": [
+      33.84,
+      -117.91
+    ],
+    "Entresto": 1906729,
+    "Cosentyx": 737186,
+    "Lucentis": 0,
+    "clms": 2037,
+    "prescribers": 43
+  },
+  {
+    "city": "Newport Beach",
+    "region": "SoCal",
+    "coords": [
+      33.62,
+      -117.93
+    ],
+    "Entresto": 1827664,
+    "Cosentyx": 628366,
+    "Lucentis": 0,
+    "clms": 1754,
+    "prescribers": 33
+  },
+  {
+    "city": "Riverside",
+    "region": "SoCal",
+    "coords": [
+      33.95,
+      -117.39
+    ],
+    "Entresto": 1797252,
+    "Cosentyx": 1368401,
+    "Lucentis": 0,
+    "clms": 2333,
+    "prescribers": 54
+  },
+  {
+    "city": "Downey",
+    "region": "SoCal",
+    "coords": [
+      33.94,
+      -118.13
+    ],
+    "Entresto": 1790784,
+    "Cosentyx": 406811,
+    "Lucentis": 0,
+    "clms": 1786,
+    "prescribers": 28
+  },
+  {
+    "city": "Visalia",
+    "region": "Central",
+    "coords": [
+      36.33,
+      -119.29
+    ],
+    "Entresto": 1614397,
+    "Cosentyx": 299591,
+    "Lucentis": 0,
+    "clms": 1570,
+    "prescribers": 23
+  },
+  {
+    "city": "El Centro",
+    "region": "SoCal",
+    "coords": [
+      32.79,
+      -115.56
+    ],
+    "Entresto": 1581475,
+    "Cosentyx": 0,
+    "Lucentis": 0,
+    "clms": 2072,
+    "prescribers": 16
+  },
+  {
+    "city": "Pomona",
+    "region": "SoCal",
+    "coords": [
+      34.06,
+      -117.75
+    ],
+    "Entresto": 1572853,
+    "Cosentyx": 82453,
+    "Lucentis": 0,
+    "clms": 1747,
+    "prescribers": 30
+  },
+  {
+    "city": "Santa Monica",
+    "region": "SoCal",
+    "coords": [
+      34.02,
+      -118.49
+    ],
+    "Entresto": 1569916,
+    "Cosentyx": 804742,
+    "Lucentis": 0,
+    "clms": 1553,
+    "prescribers": 34
+  },
+  {
+    "city": "Fountain Valley",
+    "region": "SoCal",
+    "coords": [
+      33.71,
+      -117.95
+    ],
+    "Entresto": 1569705,
+    "Cosentyx": 1661727,
+    "Lucentis": 0,
+    "clms": 1764,
+    "prescribers": 28
+  },
+  {
+    "city": "Chula Vista",
+    "region": "SoCal",
+    "coords": [
+      32.64,
+      -117.08
+    ],
+    "Entresto": 1502358,
+    "Cosentyx": 83923,
+    "Lucentis": 0,
+    "clms": 1440,
+    "prescribers": 34
+  },
+  {
+    "city": "Long Beach",
+    "region": "SoCal",
+    "coords": [
+      33.77,
+      -118.19
+    ],
+    "Entresto": 1484310,
+    "Cosentyx": 283077,
+    "Lucentis": 23406,
+    "clms": 1661,
+    "prescribers": 42
+  },
+  {
+    "city": "Burbank",
+    "region": "SoCal",
+    "coords": [
+      34.18,
+      -118.31
+    ],
+    "Entresto": 1450699,
+    "Cosentyx": 323085,
+    "Lucentis": 0,
+    "clms": 1603,
+    "prescribers": 35
+  },
+  {
+    "city": "National City",
+    "region": "SoCal",
+    "coords": [
+      32.68,
+      -117.1
+    ],
+    "Entresto": 1344851,
+    "Cosentyx": 371084,
+    "Lucentis": 0,
+    "clms": 1256,
+    "prescribers": 14
+  },
+  {
+    "city": "Santa Ana",
+    "region": "SoCal",
+    "coords": [
+      33.75,
+      -117.87
+    ],
+    "Entresto": 1333138,
+    "Cosentyx": 149300,
+    "Lucentis": 0,
+    "clms": 1355,
+    "prescribers": 27
+  },
+  {
+    "city": "Santa Clara",
+    "region": "NorCal",
+    "coords": [
+      37.35,
+      -121.95
+    ],
+    "Entresto": 1307469,
+    "Cosentyx": 447535,
+    "Lucentis": 0,
+    "clms": 1402,
+    "prescribers": 24
+  },
+  {
+    "city": "Carmichael",
+    "region": "NorCal",
+    "coords": [
+      38.61,
+      -121.33
+    ],
+    "Entresto": 1304843,
+    "Cosentyx": 0,
+    "Lucentis": 0,
+    "clms": 1184,
+    "prescribers": 19
+  },
+  {
+    "city": "El Cajon",
+    "region": "SoCal",
+    "coords": [
+      32.79,
+      -116.96
+    ],
+    "Entresto": 1298297,
+    "Cosentyx": 77086,
+    "Lucentis": 0,
+    "clms": 1333,
+    "prescribers": 19
+  },
+  {
+    "city": "San Bernardino",
+    "region": "SoCal",
+    "coords": [
+      34.1,
+      -117.3
+    ],
+    "Entresto": 1237558,
+    "Cosentyx": 126763,
+    "Lucentis": 0,
+    "clms": 1236,
+    "prescribers": 25
+  },
+  {
+    "city": "Arcadia",
+    "region": "SoCal",
+    "coords": [
+      34.14,
+      -118.04
+    ],
+    "Entresto": 1219217,
+    "Cosentyx": 522600,
+    "Lucentis": 0,
+    "clms": 1248,
+    "prescribers": 27
+  },
+  {
+    "city": "Northridge",
+    "region": "SoCal",
+    "coords": [
+      34.23,
+      -118.53
+    ],
+    "Entresto": 1198467,
+    "Cosentyx": 0,
+    "Lucentis": 0,
+    "clms": 1204,
+    "prescribers": 14
+  },
+  {
+    "city": "Alhambra",
+    "region": "SoCal",
+    "coords": [
+      34.1,
+      -118.13
+    ],
+    "Entresto": 1166990,
+    "Cosentyx": 0,
+    "Lucentis": 0,
+    "clms": 1310,
+    "prescribers": 12
+  },
+  {
+    "city": "Walnut Creek",
+    "region": "NorCal",
+    "coords": [
+      37.91,
+      -122.07
+    ],
+    "Entresto": 1166039,
+    "Cosentyx": 721342,
+    "Lucentis": 0,
+    "clms": 1142,
+    "prescribers": 34
+  },
+  {
+    "city": "Upland",
+    "region": "SoCal",
+    "coords": [
+      34.1,
+      -117.65
+    ],
+    "Entresto": 1143545,
+    "Cosentyx": 558881,
+    "Lucentis": 0,
+    "clms": 1281,
+    "prescribers": 16
+  },
+  {
+    "city": "Salinas",
+    "region": "NorCal",
+    "coords": [
+      36.68,
+      -121.66
+    ],
+    "Entresto": 1131947,
+    "Cosentyx": 95385,
+    "Lucentis": 0,
+    "clms": 956,
+    "prescribers": 19
+  },
+  {
+    "city": "Victorville",
+    "region": "SoCal",
+    "coords": [
+      34.53,
+      -117.29
+    ],
+    "Entresto": 1067150,
+    "Cosentyx": 102631,
+    "Lucentis": 0,
+    "clms": 1270,
+    "prescribers": 19
+  },
+  {
+    "city": "Tarzana",
+    "region": "SoCal",
+    "coords": [
+      34.17,
+      -118.55
+    ],
+    "Entresto": 1063787,
+    "Cosentyx": 1193147,
+    "Lucentis": 0,
+    "clms": 1042,
+    "prescribers": 22
+  },
+  {
+    "city": "Modesto",
+    "region": "NorCal",
+    "coords": [
+      37.64,
+      -120.99
+    ],
+    "Entresto": 1055772,
+    "Cosentyx": 1788493,
+    "Lucentis": 0,
+    "clms": 1226,
+    "prescribers": 30
+  },
+  {
+    "city": "Inglewood",
+    "region": "SoCal",
+    "coords": [
+      33.96,
+      -118.35
+    ],
+    "Entresto": 1046611,
+    "Cosentyx": 0,
+    "Lucentis": 0,
+    "clms": 990,
+    "prescribers": 13
+  },
+  {
+    "city": "Laguna Hills",
+    "region": "SoCal",
+    "coords": [
+      33.59,
+      -117.71
+    ],
+    "Entresto": 1031288,
+    "Cosentyx": 81906,
+    "Lucentis": 0,
+    "clms": 1092,
+    "prescribers": 30
+  },
+  {
+    "city": "Fremont",
+    "region": "NorCal",
+    "coords": [
+      37.55,
+      -121.99
+    ],
+    "Entresto": 1001920,
+    "Cosentyx": 801782,
+    "Lucentis": 0,
+    "clms": 1089,
+    "prescribers": 28
+  },
+  {
+    "city": "Roseville",
+    "region": "NorCal",
+    "coords": [
+      38.75,
+      -121.29
+    ],
+    "Entresto": 958693,
+    "Cosentyx": 1224225,
+    "Lucentis": 0,
+    "clms": 1220,
+    "prescribers": 30
+  },
+  {
+    "city": "Palmdale",
+    "region": "SoCal",
+    "coords": [
+      34.58,
+      -118.12
+    ],
+    "Entresto": 957948,
+    "Cosentyx": 0,
+    "Lucentis": 0,
+    "clms": 868,
+    "prescribers": 9
+  },
+  {
+    "city": "West Hollywood",
+    "region": "SoCal",
+    "coords": [
+      34.09,
+      -118.36
+    ],
+    "Entresto": 936781,
+    "Cosentyx": 461827,
+    "Lucentis": 0,
+    "clms": 1337,
+    "prescribers": 26
+  },
+  {
+    "city": "Oxnard",
+    "region": "SoCal",
+    "coords": [
+      34.19,
+      -119.17
+    ],
+    "Entresto": 921337,
+    "Cosentyx": 75080,
+    "Lucentis": 0,
+    "clms": 936,
+    "prescribers": 18
+  },
+  {
+    "city": "Palm Springs",
+    "region": "SoCal",
+    "coords": [
+      33.83,
+      -116.54
+    ],
+    "Entresto": 897369,
+    "Cosentyx": 0,
+    "Lucentis": 0,
+    "clms": 866,
+    "prescribers": 18
+  },
+  {
+    "city": "Santa Barbara",
+    "region": "SoCal",
+    "coords": [
+      34.42,
+      -119.69
+    ],
+    "Entresto": 863672,
+    "Cosentyx": 495492,
+    "Lucentis": 97648,
+    "clms": 1006,
+    "prescribers": 24
+  },
+  {
+    "city": "Murrieta",
+    "region": "SoCal",
+    "coords": [
+      33.55,
+      -117.21
+    ],
+    "Entresto": 848351,
+    "Cosentyx": 275980,
+    "Lucentis": 0,
+    "clms": 835,
+    "prescribers": 23
+  },
+  {
+    "city": "Lancaster",
+    "region": "SoCal",
+    "coords": [
+      34.69,
+      -118.15
+    ],
+    "Entresto": 842978,
+    "Cosentyx": 218006,
+    "Lucentis": 0,
+    "clms": 871,
+    "prescribers": 20
+  },
+  {
+    "city": "Hemet",
+    "region": "SoCal",
+    "coords": [
+      33.75,
+      -116.97
+    ],
+    "Entresto": 833414,
+    "Cosentyx": 206135,
+    "Lucentis": 0,
+    "clms": 906,
+    "prescribers": 20
+  },
+  {
+    "city": "Thousand Oaks",
+    "region": "SoCal",
+    "coords": [
+      34.17,
+      -118.83
+    ],
+    "Entresto": 804718,
+    "Cosentyx": 1186893,
+    "Lucentis": 0,
+    "clms": 962,
+    "prescribers": 20
+  },
+  {
+    "city": "Daly City",
+    "region": "NorCal",
+    "coords": [
+      37.71,
+      -122.46
+    ],
+    "Entresto": 782028,
+    "Cosentyx": 0,
+    "Lucentis": 0,
+    "clms": 705,
+    "prescribers": 17
+  },
+  {
+    "city": "Mission Viejo",
+    "region": "SoCal",
+    "coords": [
+      33.6,
+      -117.66
+    ],
+    "Entresto": 774712,
+    "Cosentyx": 87322,
+    "Lucentis": 0,
+    "clms": 797,
+    "prescribers": 18
+  },
+  {
+    "city": "Ventura",
+    "region": "SoCal",
+    "coords": [
+      34.27,
+      -119.22
+    ],
+    "Entresto": 738442,
+    "Cosentyx": 244281,
+    "Lucentis": 0,
+    "clms": 668,
+    "prescribers": 19
+  },
+  {
+    "city": "Westminster",
+    "region": "SoCal",
+    "coords": [
+      33.76,
+      -117.99
+    ],
+    "Entresto": 718555,
+    "Cosentyx": 672495,
+    "Lucentis": 0,
+    "clms": 766,
+    "prescribers": 15
+  },
+  {
+    "city": "Lakewood",
+    "region": "SoCal",
+    "coords": [
+      33.85,
+      -118.13
+    ],
+    "Entresto": 716507,
+    "Cosentyx": 579447,
+    "Lucentis": 0,
+    "clms": 860,
+    "prescribers": 12
+  },
+  {
+    "city": "Palo Alto",
+    "region": "NorCal",
+    "coords": [
+      37.44,
+      -122.14
+    ],
+    "Entresto": 712233,
+    "Cosentyx": 195749,
+    "Lucentis": 0,
+    "clms": 742,
+    "prescribers": 16
+  },
+  {
+    "city": "Encinitas",
+    "region": "SoCal",
+    "coords": [
+      33.03,
+      -117.29
+    ],
+    "Entresto": 709147,
+    "Cosentyx": 163712,
+    "Lucentis": 0,
+    "clms": 714,
+    "prescribers": 21
+  },
+  {
+    "city": "Monterey Park",
+    "region": "SoCal",
+    "coords": [
+      34.06,
+      -118.12
+    ],
+    "Entresto": 669666,
+    "Cosentyx": 207381,
+    "Lucentis": 0,
+    "clms": 878,
+    "prescribers": 18
+  },
+  {
+    "city": "Van Nuys",
+    "region": "SoCal",
+    "coords": [
+      34.19,
+      -118.45
+    ],
+    "Entresto": 669419,
+    "Cosentyx": 0,
+    "Lucentis": 0,
+    "clms": 694,
+    "prescribers": 13
+  },
+  {
+    "city": "Mountain View",
+    "region": "NorCal",
+    "coords": [
+      37.39,
+      -122.08
+    ],
+    "Entresto": 666457,
+    "Cosentyx": 684064,
+    "Lucentis": 0,
+    "clms": 625,
+    "prescribers": 24
+  },
+  {
+    "city": "Chico",
+    "region": "NorCal",
+    "coords": [
+      39.73,
+      -121.84
+    ],
+    "Entresto": 632903,
+    "Cosentyx": 619168,
+    "Lucentis": 0,
+    "clms": 575,
+    "prescribers": 15
+  },
+  {
+    "city": "Burlingame",
+    "region": "NorCal",
+    "coords": [
+      37.58,
+      -122.37
+    ],
+    "Entresto": 617720,
+    "Cosentyx": 0,
+    "Lucentis": 0,
+    "clms": 644,
+    "prescribers": 8
+  },
+  {
+    "city": "Escondido",
+    "region": "SoCal",
+    "coords": [
+      33.12,
+      -117.08
+    ],
+    "Entresto": 612925,
+    "Cosentyx": 0,
+    "Lucentis": 0,
+    "clms": 642,
+    "prescribers": 15
+  },
+  {
+    "city": "Napa",
+    "region": "NorCal",
+    "coords": [
+      38.3,
+      -122.28
+    ],
+    "Entresto": 590712,
+    "Cosentyx": 941504,
+    "Lucentis": 0,
+    "clms": 578,
+    "prescribers": 11
+  },
+  {
+    "city": "Vista",
+    "region": "SoCal",
+    "coords": [
+      33.2,
+      -117.24
+    ],
+    "Entresto": 581945,
+    "Cosentyx": 564332,
+    "Lucentis": 0,
+    "clms": 613,
+    "prescribers": 11
+  },
+  {
+    "city": "Elk Grove",
+    "region": "NorCal",
+    "coords": [
+      38.41,
+      -121.37
+    ],
+    "Entresto": 537875,
+    "Cosentyx": 244922,
+    "Lucentis": 0,
+    "clms": 615,
+    "prescribers": 8
+  },
+  {
+    "city": "Oceanside",
+    "region": "SoCal",
+    "coords": [
+      33.19,
+      -117.37
+    ],
+    "Entresto": 524259,
+    "Cosentyx": 234051,
+    "Lucentis": 0,
+    "clms": 508,
+    "prescribers": 12
+  },
+  {
+    "city": "Whittier",
+    "region": "SoCal",
+    "coords": [
+      33.98,
+      -118.03
+    ],
+    "Entresto": 517772,
+    "Cosentyx": 338916,
+    "Lucentis": 0,
+    "clms": 580,
+    "prescribers": 10
+  },
+  {
+    "city": "Tracy",
+    "region": "NorCal",
+    "coords": [
+      37.74,
+      -121.43
+    ],
+    "Entresto": 508213,
+    "Cosentyx": 124388,
+    "Lucentis": 0,
+    "clms": 559,
+    "prescribers": 7
+  },
+  {
+    "city": "Apple Valley",
+    "region": "SoCal",
+    "coords": [
+      34.5,
+      -117.19
+    ],
+    "Entresto": 504720,
+    "Cosentyx": 714827,
+    "Lucentis": 0,
+    "clms": 672,
+    "prescribers": 16
+  },
+  {
+    "city": "Rancho Cucamonga",
+    "region": "SoCal",
+    "coords": [
+      34.1,
+      -117.59
+    ],
+    "Entresto": 500460,
+    "Cosentyx": 299460,
+    "Lucentis": 0,
+    "clms": 567,
+    "prescribers": 19
+  },
+  {
+    "city": "Fullerton",
+    "region": "SoCal",
+    "coords": [
+      33.87,
+      -117.92
+    ],
+    "Entresto": 471665,
+    "Cosentyx": 469033,
+    "Lucentis": 0,
+    "clms": 572,
+    "prescribers": 13
+  },
+  {
+    "city": "Temecula",
+    "region": "SoCal",
+    "coords": [
+      33.49,
+      -117.14
+    ],
+    "Entresto": 456968,
+    "Cosentyx": 266448,
+    "Lucentis": 0,
+    "clms": 445,
+    "prescribers": 14
+  },
+  {
+    "city": "Santa Maria",
+    "region": "SoCal",
+    "coords": [
+      34.95,
+      -120.43
+    ],
+    "Entresto": 450341,
+    "Cosentyx": 1326764,
+    "Lucentis": 0,
+    "clms": 660,
+    "prescribers": 13
+  },
+  {
+    "city": "Vallejo",
+    "region": "NorCal",
+    "coords": [
+      38.1,
+      -122.26
+    ],
+    "Entresto": 420825,
+    "Cosentyx": 341045,
+    "Lucentis": 0,
+    "clms": 562,
+    "prescribers": 11
+  },
+  {
+    "city": "Moreno Valley",
+    "region": "SoCal",
+    "coords": [
+      33.93,
+      -117.23
+    ],
+    "Entresto": 398420,
+    "Cosentyx": 398516,
+    "Lucentis": 0,
+    "clms": 540,
+    "prescribers": 8
+  },
+  {
+    "city": "Corona",
+    "region": "SoCal",
+    "coords": [
+      33.87,
+      -117.56
+    ],
+    "Entresto": 384163,
+    "Cosentyx": 0,
+    "Lucentis": 0,
+    "clms": 455,
+    "prescribers": 7
+  },
+  {
+    "city": "Encino",
+    "region": "SoCal",
+    "coords": [
+      34.16,
+      -118.5
+    ],
+    "Entresto": 380408,
+    "Cosentyx": 87135,
+    "Lucentis": 0,
+    "clms": 462,
+    "prescribers": 14
+  },
+  {
+    "city": "San Gabriel",
+    "region": "SoCal",
+    "coords": [
+      34.09,
+      -118.1
+    ],
+    "Entresto": 371501,
+    "Cosentyx": 0,
+    "Lucentis": 0,
+    "clms": 366,
+    "prescribers": 13
+  },
+  {
+    "city": "Huntington Beach",
+    "region": "SoCal",
+    "coords": [
+      33.66,
+      -117.99
+    ],
+    "Entresto": 370190,
+    "Cosentyx": 81506,
+    "Lucentis": 0,
+    "clms": 356,
+    "prescribers": 10
+  },
+  {
+    "city": "Redwood City",
+    "region": "NorCal",
+    "coords": [
+      37.49,
+      -122.23
+    ],
+    "Entresto": 369314,
+    "Cosentyx": 967410,
+    "Lucentis": 0,
+    "clms": 410,
+    "prescribers": 16
+  },
+  {
+    "city": "Rosemead",
+    "region": "SoCal",
+    "coords": [
+      34.08,
+      -118.07
+    ],
+    "Entresto": 365921,
+    "Cosentyx": 0,
+    "Lucentis": 0,
+    "clms": 453,
+    "prescribers": 8
+  },
+  {
+    "city": "Monterey",
+    "region": "NorCal",
+    "coords": [
+      36.6,
+      -121.89
+    ],
+    "Entresto": 363902,
+    "Cosentyx": 188791,
+    "Lucentis": 0,
+    "clms": 356,
+    "prescribers": 16
+  },
+  {
+    "city": "Redlands",
+    "region": "SoCal",
+    "coords": [
+      34.05,
+      -117.18
+    ],
+    "Entresto": 354570,
+    "Cosentyx": 370066,
+    "Lucentis": 0,
+    "clms": 453,
+    "prescribers": 13
+  },
+  {
+    "city": "Pleasanton",
+    "region": "NorCal",
+    "coords": [
+      37.66,
+      -121.87
+    ],
+    "Entresto": 346545,
+    "Cosentyx": 136568,
+    "Lucentis": 0,
+    "clms": 307,
+    "prescribers": 11
+  },
+  {
+    "city": "San Mateo",
+    "region": "NorCal",
+    "coords": [
+      37.56,
+      -122.32
+    ],
+    "Entresto": 343211,
+    "Cosentyx": 75634,
+    "Lucentis": 0,
+    "clms": 343,
+    "prescribers": 7
+  },
+  {
+    "city": "Concord",
+    "region": "NorCal",
+    "coords": [
+      37.98,
+      -122.03
+    ],
+    "Entresto": 341063,
+    "Cosentyx": 0,
+    "Lucentis": 0,
+    "clms": 244,
+    "prescribers": 7
+  },
+  {
+    "city": "Martinez",
+    "region": "NorCal",
+    "coords": [
+      38.02,
+      -122.13
+    ],
+    "Entresto": 323966,
+    "Cosentyx": 247823,
+    "Lucentis": 0,
+    "clms": 319,
+    "prescribers": 10
+  },
+  {
+    "city": "Lodi",
+    "region": "NorCal",
+    "coords": [
+      38.13,
+      -121.27
+    ],
+    "Entresto": 317077,
+    "Cosentyx": 203578,
+    "Lucentis": 0,
+    "clms": 331,
+    "prescribers": 10
+  },
+  {
+    "city": "Chino",
+    "region": "SoCal",
+    "coords": [
+      34.01,
+      -117.69
+    ],
+    "Entresto": 312784,
+    "Cosentyx": 0,
+    "Lucentis": 0,
+    "clms": 271,
+    "prescribers": 6
+  },
+  {
+    "city": "Simi Valley",
+    "region": "SoCal",
+    "coords": [
+      34.26,
+      -118.78
+    ],
+    "Entresto": 305665,
+    "Cosentyx": 0,
+    "Lucentis": 0,
+    "clms": 288,
+    "prescribers": 11
+  },
+  {
+    "city": "Valencia",
+    "region": "SoCal",
+    "coords": [
+      34.43,
+      -118.61
+    ],
+    "Entresto": 299037,
+    "Cosentyx": 358293,
+    "Lucentis": 0,
+    "clms": 299,
+    "prescribers": 12
+  },
+  {
+    "city": "Sherman Oaks",
+    "region": "SoCal",
+    "coords": [
+      34.15,
+      -118.45
+    ],
+    "Entresto": 263012,
+    "Cosentyx": 83157,
+    "Lucentis": 0,
+    "clms": 368,
+    "prescribers": 10
+  },
+  {
+    "city": "Buena Park",
+    "region": "SoCal",
+    "coords": [
+      33.86,
+      -117.99
+    ],
+    "Entresto": 256090,
+    "Cosentyx": 0,
+    "Lucentis": 0,
+    "clms": 276,
+    "prescribers": 7
+  },
+  {
+    "city": "Costa Mesa",
+    "region": "SoCal",
+    "coords": [
+      33.64,
+      -117.92
+    ],
+    "Entresto": 249130,
+    "Cosentyx": 181300,
+    "Lucentis": 0,
+    "clms": 289,
+    "prescribers": 6
+  },
+  {
+    "city": "Eureka",
+    "region": "NorCal",
+    "coords": [
+      40.8,
+      -124.16
+    ],
+    "Entresto": 242864,
+    "Cosentyx": 0,
+    "Lucentis": 0,
+    "clms": 265,
+    "prescribers": 4
+  },
+  {
+    "city": "Hacienda Heights",
+    "region": "SoCal",
+    "coords": [
+      33.99,
+      -117.96
+    ],
+    "Entresto": 234132,
+    "Cosentyx": 0,
+    "Lucentis": 0,
+    "clms": 223,
+    "prescribers": 3
+  },
+  {
+    "city": "Garden Grove",
+    "region": "SoCal",
+    "coords": [
+      33.77,
+      -117.94
+    ],
+    "Entresto": 230565,
+    "Cosentyx": 481244,
+    "Lucentis": 0,
+    "clms": 364,
+    "prescribers": 13
+  },
+  {
+    "city": "Montebello",
+    "region": "SoCal",
+    "coords": [
+      34.01,
+      -118.11
+    ],
+    "Entresto": 209036,
+    "Cosentyx": 0,
+    "Lucentis": 0,
+    "clms": 277,
+    "prescribers": 8
+  },
+  {
+    "city": "Turlock",
+    "region": "NorCal",
+    "coords": [
+      37.49,
+      -120.85
+    ],
+    "Entresto": 199377,
+    "Cosentyx": 337122,
+    "Lucentis": 0,
+    "clms": 261,
+    "prescribers": 10
+  },
+  {
+    "city": "Berkeley",
+    "region": "NorCal",
+    "coords": [
+      37.87,
+      -122.27
+    ],
+    "Entresto": 187700,
+    "Cosentyx": 896584,
+    "Lucentis": 0,
+    "clms": 256,
+    "prescribers": 8
+  },
+  {
+    "city": "Folsom",
+    "region": "NorCal",
+    "coords": [
+      38.68,
+      -121.18
+    ],
+    "Entresto": 186971,
+    "Cosentyx": 857883,
+    "Lucentis": 0,
+    "clms": 269,
+    "prescribers": 8
+  },
+  {
+    "city": "Redondo Beach",
+    "region": "SoCal",
+    "coords": [
+      33.84,
+      -118.39
+    ],
+    "Entresto": 185215,
+    "Cosentyx": 0,
+    "Lucentis": 0,
+    "clms": 190,
+    "prescribers": 3
+  },
+  {
+    "city": "North Hollywood",
+    "region": "SoCal",
+    "coords": [
+      34.17,
+      -118.38
+    ],
+    "Entresto": 181221,
+    "Cosentyx": 143714,
+    "Lucentis": 0,
+    "clms": 236,
+    "prescribers": 7
+  },
+  {
+    "city": "West Covina",
+    "region": "SoCal",
+    "coords": [
+      34.07,
+      -117.94
+    ],
+    "Entresto": 179700,
+    "Cosentyx": 151274,
+    "Lucentis": 0,
+    "clms": 252,
+    "prescribers": 8
+  },
+  {
+    "city": "Dublin",
+    "region": "NorCal",
+    "coords": [
+      37.71,
+      -121.94
+    ],
+    "Entresto": 175614,
+    "Cosentyx": 0,
+    "Lucentis": 0,
+    "clms": 173,
+    "prescribers": 3
+  },
+  {
+    "city": "El Monte",
+    "region": "SoCal",
+    "coords": [
+      34.07,
+      -118.03
+    ],
+    "Entresto": 172443,
+    "Cosentyx": 0,
+    "Lucentis": 0,
+    "clms": 180,
+    "prescribers": 3
+  },
+  {
+    "city": "Manteca",
+    "region": "NorCal",
+    "coords": [
+      37.8,
+      -121.22
+    ],
+    "Entresto": 168784,
+    "Cosentyx": 0,
+    "Lucentis": 0,
+    "clms": 184,
+    "prescribers": 4
+  },
+  {
+    "city": "Fontana",
+    "region": "SoCal",
+    "coords": [
+      34.09,
+      -117.43
+    ],
+    "Entresto": 167547,
+    "Cosentyx": 652181,
+    "Lucentis": 0,
+    "clms": 370,
+    "prescribers": 14
+  },
+  {
+    "city": "Indio",
+    "region": "SoCal",
+    "coords": [
+      33.72,
+      -116.21
+    ],
+    "Entresto": 164134,
+    "Cosentyx": 0,
+    "Lucentis": 0,
+    "clms": 174,
+    "prescribers": 7
+  },
+  {
+    "city": "Colton",
+    "region": "SoCal",
+    "coords": [
+      34.07,
+      -117.31
+    ],
+    "Entresto": 163623,
+    "Cosentyx": 334978,
+    "Lucentis": 0,
+    "clms": 258,
+    "prescribers": 10
+  },
+  {
+    "city": "Lompoc",
+    "region": "SoCal",
+    "coords": [
+      34.64,
+      -120.46
+    ],
+    "Entresto": 157599,
+    "Cosentyx": 0,
+    "Lucentis": 0,
+    "clms": 186,
+    "prescribers": 2
+  },
+  {
+    "city": "Hesperia",
+    "region": "SoCal",
+    "coords": [
+      34.43,
+      -117.3
+    ],
+    "Entresto": 146621,
+    "Cosentyx": 0,
+    "Lucentis": 0,
+    "clms": 193,
+    "prescribers": 4
+  },
+  {
+    "city": "Hawthorne",
+    "region": "SoCal",
+    "coords": [
+      33.91,
+      -118.35
+    ],
+    "Entresto": 146037,
+    "Cosentyx": 83795,
+    "Lucentis": 0,
+    "clms": 170,
+    "prescribers": 7
+  },
+  {
+    "city": "Fairfield",
+    "region": "NorCal",
+    "coords": [
+      38.25,
+      -122.04
+    ],
+    "Entresto": 143821,
+    "Cosentyx": 89403,
+    "Lucentis": 0,
+    "clms": 165,
+    "prescribers": 5
+  },
+  {
+    "city": "San Leandro",
+    "region": "NorCal",
+    "coords": [
+      37.72,
+      -122.16
+    ],
+    "Entresto": 129188,
+    "Cosentyx": 0,
+    "Lucentis": 0,
+    "clms": 120,
+    "prescribers": 8
+  },
+  {
+    "city": "Irvine",
+    "region": "SoCal",
+    "coords": [
+      33.68,
+      -117.83
+    ],
+    "Entresto": 114289,
+    "Cosentyx": 1281925,
+    "Lucentis": 0,
+    "clms": 359,
+    "prescribers": 15
+  },
+  {
+    "city": "Brea",
+    "region": "SoCal",
+    "coords": [
+      33.92,
+      -117.9
+    ],
+    "Entresto": 106723,
+    "Cosentyx": 0,
+    "Lucentis": 0,
+    "clms": 93,
+    "prescribers": 2
+  },
+  {
+    "city": "Petaluma",
+    "region": "NorCal",
+    "coords": [
+      38.23,
+      -122.64
+    ],
+    "Entresto": 95548,
+    "Cosentyx": 0,
+    "Lucentis": 0,
+    "clms": 93,
+    "prescribers": 4
+  },
+  {
+    "city": "Vacaville",
+    "region": "NorCal",
+    "coords": [
+      38.36,
+      -121.99
+    ],
+    "Entresto": 89912,
+    "Cosentyx": 312810,
+    "Lucentis": 0,
+    "clms": 155,
+    "prescribers": 4
+  },
+  {
+    "city": "Hayward",
+    "region": "NorCal",
+    "coords": [
+      37.66,
+      -122.08
+    ],
+    "Entresto": 78591,
+    "Cosentyx": 22350,
+    "Lucentis": 0,
+    "clms": 70,
+    "prescribers": 3
+  },
+  {
+    "city": "Cerritos",
+    "region": "SoCal",
+    "coords": [
+      33.86,
+      -118.07
+    ],
+    "Entresto": 68541,
+    "Cosentyx": 0,
+    "Lucentis": 0,
+    "clms": 75,
+    "prescribers": 2
+  },
+  {
+    "city": "Sunnyvale",
+    "region": "NorCal",
+    "coords": [
+      37.36,
+      -122.03
+    ],
+    "Entresto": 63680,
+    "Cosentyx": 177957,
+    "Lucentis": 0,
+    "clms": 120,
+    "prescribers": 4
+  },
+  {
+    "city": "Chino Hills",
+    "region": "SoCal",
+    "coords": [
+      33.99,
+      -117.73
+    ],
+    "Entresto": 62341,
+    "Cosentyx": 0,
+    "Lucentis": 0,
+    "clms": 55,
+    "prescribers": 2
+  },
+  {
+    "city": "Alameda",
+    "region": "NorCal",
+    "coords": [
+      37.77,
+      -122.24
+    ],
+    "Entresto": 56335,
+    "Cosentyx": 0,
+    "Lucentis": 0,
+    "clms": 43,
+    "prescribers": 1
+  },
+  {
+    "city": "Sonoma",
+    "region": "NorCal",
+    "coords": [
+      38.29,
+      -122.46
+    ],
+    "Entresto": 54806,
+    "Cosentyx": 0,
+    "Lucentis": 0,
+    "clms": 66,
+    "prescribers": 3
+  },
+  {
+    "city": "South San Francisco",
+    "region": "NorCal",
+    "coords": [
+      37.65,
+      -122.41
+    ],
+    "Entresto": 50250,
+    "Cosentyx": 214125,
+    "Lucentis": 0,
+    "clms": 103,
+    "prescribers": 3
+  },
+  {
+    "city": "Richmond",
+    "region": "NorCal",
+    "coords": [
+      37.94,
+      -122.34
+    ],
+    "Entresto": 45989,
+    "Cosentyx": 0,
+    "Lucentis": 0,
+    "clms": 45,
+    "prescribers": 1
+  },
+  {
+    "city": "Rialto",
+    "region": "SoCal",
+    "coords": [
+      34.1,
+      -117.37
+    ],
+    "Entresto": 40727,
+    "Cosentyx": 0,
+    "Lucentis": 0,
+    "clms": 57,
+    "prescribers": 3
+  },
+  {
+    "city": "Culver City",
+    "region": "SoCal",
+    "coords": [
+      34.02,
+      -118.4
+    ],
+    "Entresto": 39180,
+    "Cosentyx": 0,
+    "Lucentis": 0,
+    "clms": 81,
+    "prescribers": 4
+  },
+  {
+    "city": "Placentia",
+    "region": "SoCal",
+    "coords": [
+      33.87,
+      -117.86
+    ],
+    "Entresto": 38592,
+    "Cosentyx": 197388,
+    "Lucentis": 0,
+    "clms": 98,
+    "prescribers": 3
+  },
+  {
+    "city": "El Segundo",
+    "region": "SoCal",
+    "coords": [
+      33.92,
+      -118.42
+    ],
+    "Entresto": 35578,
+    "Cosentyx": 0,
+    "Lucentis": 0,
+    "clms": 51,
+    "prescribers": 2
+  },
+  {
+    "city": "Poway",
+    "region": "SoCal",
+    "coords": [
+      32.96,
+      -117.04
+    ],
+    "Entresto": 34794,
+    "Cosentyx": 358100,
+    "Lucentis": 0,
+    "clms": 84,
+    "prescribers": 5
+  },
+  {
+    "city": "Castro Valley",
+    "region": "NorCal",
+    "coords": [
+      37.69,
+      -122.09
+    ],
+    "Entresto": 34256,
+    "Cosentyx": 0,
+    "Lucentis": 0,
+    "clms": 35,
+    "prescribers": 1
+  },
+  {
+    "city": "Tustin",
+    "region": "SoCal",
+    "coords": [
+      33.74,
+      -117.81
+    ],
+    "Entresto": 33194,
+    "Cosentyx": 538797,
+    "Lucentis": 0,
+    "clms": 135,
+    "prescribers": 6
+  },
+  {
+    "city": "Claremont",
+    "region": "SoCal",
+    "coords": [
+      34.1,
+      -117.71
+    ],
+    "Entresto": 29544,
+    "Cosentyx": 0,
+    "Lucentis": 0,
+    "clms": 57,
+    "prescribers": 3
+  },
+  {
+    "city": "Manhattan Beach",
+    "region": "SoCal",
+    "coords": [
+      33.88,
+      -118.41
+    ],
+    "Entresto": 28968,
+    "Cosentyx": 0,
+    "Lucentis": 0,
+    "clms": 29,
+    "prescribers": 2
+  },
+  {
+    "city": "Templeton",
+    "region": "NorCal",
+    "coords": [
+      35.55,
+      -120.71
+    ],
+    "Entresto": 26315,
+    "Cosentyx": 515839,
+    "Lucentis": 0,
+    "clms": 94,
+    "prescribers": 4
+  },
+  {
+    "city": "Antioch",
+    "region": "NorCal",
+    "coords": [
+      38.0,
+      -121.81
+    ],
+    "Entresto": 26285,
+    "Cosentyx": 0,
+    "Lucentis": 0,
+    "clms": 28,
+    "prescribers": 1
+  },
+  {
+    "city": "Yorba Linda",
+    "region": "SoCal",
+    "coords": [
+      33.89,
+      -117.81
+    ],
+    "Entresto": 25703,
+    "Cosentyx": 178515,
+    "Lucentis": 0,
+    "clms": 49,
+    "prescribers": 4
+  },
+  {
+    "city": "Rancho Cordova",
+    "region": "NorCal",
+    "coords": [
+      38.59,
+      -121.3
+    ],
+    "Entresto": 25529,
+    "Cosentyx": 222710,
+    "Lucentis": 0,
+    "clms": 54,
+    "prescribers": 3
+  },
+  {
+    "city": "Beaumont",
+    "region": "SoCal",
+    "coords": [
+      33.93,
+      -116.97
+    ],
+    "Entresto": 23105,
+    "Cosentyx": 0,
+    "Lucentis": 0,
+    "clms": 17,
+    "prescribers": 1
+  },
+  {
+    "city": "Woodland",
+    "region": "NorCal",
+    "coords": [
+      38.68,
+      -121.77
+    ],
+    "Entresto": 22930,
+    "Cosentyx": 291529,
+    "Lucentis": 0,
+    "clms": 53,
+    "prescribers": 4
+  },
+  {
+    "city": "La Quinta",
+    "region": "SoCal",
+    "coords": [
+      33.66,
+      -116.3
+    ],
+    "Entresto": 21824,
+    "Cosentyx": 496205,
+    "Lucentis": 0,
+    "clms": 111,
+    "prescribers": 3
+  },
+  {
+    "city": "Highland",
+    "region": "SoCal",
+    "coords": [
+      34.13,
+      -117.21
+    ],
+    "Entresto": 18274,
+    "Cosentyx": 0,
+    "Lucentis": 0,
+    "clms": 26,
+    "prescribers": 1
+  },
+  {
+    "city": "La Verne",
+    "region": "SoCal",
+    "coords": [
+      34.1,
+      -117.76
+    ],
+    "Entresto": 15851,
+    "Cosentyx": 0,
+    "Lucentis": 0,
+    "clms": 18,
+    "prescribers": 1
+  },
+  {
+    "city": "Palm Desert",
+    "region": "SoCal",
+    "coords": [
+      33.72,
+      -116.37
+    ],
+    "Entresto": 15181,
+    "Cosentyx": 316686,
+    "Lucentis": 0,
+    "clms": 75,
+    "prescribers": 4
+  },
+  {
+    "city": "Pittsburg",
+    "region": "NorCal",
+    "coords": [
+      38.03,
+      -121.88
+    ],
+    "Entresto": 12645,
+    "Cosentyx": 0,
+    "Lucentis": 0,
+    "clms": 11,
+    "prescribers": 1
+  },
+  {
+    "city": "Cathedral City",
+    "region": "SoCal",
+    "coords": [
+      33.78,
+      -116.47
+    ],
+    "Entresto": 11973,
+    "Cosentyx": 0,
+    "Lucentis": 0,
+    "clms": 16,
+    "prescribers": 1
+  },
+  {
+    "city": "Phillips Ranch",
+    "region": "SoCal",
+    "coords": [
+      34.02,
+      -117.81
+    ],
+    "Entresto": 10610,
+    "Cosentyx": 0,
+    "Lucentis": 0,
+    "clms": 16,
+    "prescribers": 1
+  },
+  {
+    "city": "Camarillo",
+    "region": "SoCal",
+    "coords": [
+      34.21,
+      -119.03
+    ],
+    "Entresto": 8091,
+    "Cosentyx": 165011,
+    "Lucentis": 0,
+    "clms": 34,
+    "prescribers": 2
+  },
+  {
+    "city": "Westlake Village",
+    "region": "SoCal",
+    "coords": [
+      34.14,
+      -118.8
+    ],
+    "Entresto": 8070,
+    "Cosentyx": 0,
+    "Lucentis": 0,
+    "clms": 12,
+    "prescribers": 1
+  },
+  {
+    "city": "Rancho Palos Verdes",
+    "region": "SoCal",
+    "coords": [
+      33.74,
+      -118.36
+    ],
+    "Entresto": 7953,
+    "Cosentyx": 0,
+    "Lucentis": 0,
+    "clms": 12,
+    "prescribers": 1
+  },
+  {
+    "city": "Coronado",
+    "region": "SoCal",
+    "coords": [
+      32.69,
+      -117.18
+    ],
+    "Entresto": 7570,
+    "Cosentyx": 83378,
+    "Lucentis": 0,
+    "clms": 25,
+    "prescribers": 2
+  },
+  {
+    "city": "Cupertino",
+    "region": "NorCal",
+    "coords": [
+      37.32,
+      -122.03
+    ],
+    "Entresto": 5604,
+    "Cosentyx": 0,
+    "Lucentis": 0,
+    "clms": 18,
+    "prescribers": 1
+  },
+  {
+    "city": "Davis",
+    "region": "NorCal",
+    "coords": [
+      38.54,
+      -121.74
+    ],
+    "Entresto": 0,
+    "Cosentyx": 637446,
+    "Lucentis": 0,
+    "clms": 79,
+    "prescribers": 2
+  },
+  {
+    "city": "Goleta",
+    "region": "SoCal",
+    "coords": [
+      34.44,
+      -119.83
+    ],
+    "Entresto": 0,
+    "Cosentyx": 150115,
+    "Lucentis": 0,
+    "clms": 21,
+    "prescribers": 1
+  },
+  {
+    "city": "Ontario",
+    "region": "SoCal",
+    "coords": [
+      34.06,
+      -117.65
+    ],
+    "Entresto": 0,
+    "Cosentyx": 137134,
+    "Lucentis": 0,
+    "clms": 19,
+    "prescribers": 1
+  },
+  {
+    "city": "Pleasant Hill",
+    "region": "NorCal",
+    "coords": [
+      37.95,
+      -122.06
+    ],
+    "Entresto": 0,
+    "Cosentyx": 96204,
+    "Lucentis": 0,
+    "clms": 12,
+    "prescribers": 1
+  },
+  {
+    "city": "San Bruno",
+    "region": "NorCal",
+    "coords": [
+      37.63,
+      -122.41
+    ],
+    "Entresto": 0,
+    "Cosentyx": 30251,
+    "Lucentis": 0,
+    "clms": 12,
+    "prescribers": 1
+  },
+  {
+    "city": "Santa Clarita",
+    "region": "SoCal",
+    "coords": [
+      34.39,
+      -118.54
+    ],
+    "Entresto": 0,
+    "Cosentyx": 1325799,
+    "Lucentis": 0,
+    "clms": 193,
+    "prescribers": 3
+  },
+  {
+    "city": "Studio City",
+    "region": "SoCal",
+    "coords": [
+      34.14,
+      -118.39
+    ],
+    "Entresto": 0,
+    "Cosentyx": 77884,
+    "Lucentis": 0,
+    "clms": 12,
+    "prescribers": 1
+  }
+]

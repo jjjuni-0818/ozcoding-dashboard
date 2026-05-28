@@ -1,0 +1,14 @@
+{
+  "brand": "Entresto",
+  "region": "Central",
+  "asOf": "2025-12-31",
+  "cost": 33130899,
+  "clms": 32574,
+  "hcpCount": 676,
+  "rising": 164,
+  "lapsed": 142,
+  "declining": 145,
+  "vsLyCost": 12.4,
+  "vsLyClms": 8.1,
+  "vsLyHcp": -2.3
+}
