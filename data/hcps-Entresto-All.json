@@ -1,5 +1,17 @@
 [
   {
+    "npi": "1104876002",
+    "name": "Dr. Mayer Rashtian",
+    "specialty": "Clinical Cardiac Electrophysiology",
+    "city": "Pasadena",
+    "region": "SoCal",
+    "cost": 1050000,
+    "clms": 900,
+    "mom": -19,
+    "daysSinceVisit": 122,
+    "tag": "lapsed"
+  },
+  {
     "npi": "1649230988",
     "name": "Dr. Mohamed Khan",
     "specialty": "Interventional Cardiology",
@@ -10,18 +22,6 @@
     "mom": 35,
     "daysSinceVisit": 123,
     "tag": "rising"
-  },
-  {
-    "npi": "1104876002",
-    "name": "Dr. Mayer Rashtian",
-    "specialty": "Clinical Cardiac Electrophysiology",
-    "city": "Pasadena",
-    "region": "SoCal",
-    "cost": 915169,
-    "clms": 804,
-    "mom": -19,
-    "daysSinceVisit": 122,
-    "tag": "lapsed"
   },
   {
     "npi": "1023391166",
