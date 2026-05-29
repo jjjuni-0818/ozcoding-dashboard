@@ -26,8 +26,10 @@ from supabase import create_client
 
 load_dotenv()
 
+# Upload requires the service_role key (bypasses RLS).
+# Set SUPABASE_SERVICE_KEY in .env; falls back to SUPABASE_KEY if not set.
 SUPABASE_URL = os.environ.get("SUPABASE_URL", "")
-SUPABASE_KEY = os.environ.get("SUPABASE_KEY", "")
+SUPABASE_KEY = os.environ.get("SUPABASE_SERVICE_KEY") or os.environ.get("SUPABASE_KEY", "")
 CSV_PATH = Path(__file__).parent.parent / "backend" / "data" / "part_d_prescriber.csv"
 TABLE = "hcp_prescriptions"
 BATCH_SIZE = 500
@@ -62,13 +64,17 @@ rename = {
 }
 df = df.rename(columns=rename)[[*rename.values()]]
 
-# Coerce numerics; fill NaN with 0 so JSON serialisation works
-for col in ("tot_clms", "tot_30day_fills", "tot_day_suply", "tot_drug_cst", "tot_benes"):
+# Coerce numerics; fill NaN with 0
+for col in ("tot_30day_fills", "tot_day_suply", "tot_drug_cst"):
     df[col] = pd.to_numeric(df[col], errors="coerce").fillna(0)
+for col in ("tot_clms", "tot_benes"):
+    df[col] = pd.to_numeric(df[col], errors="coerce").fillna(0).astype(int)
 
-df = df.where(pd.notna(df), None)   # NaN → None for JSON null
-
-records = df.to_dict(orient="records")
+# to_dict leaves numpy NaN for text columns; convert all NaN/NaT to None
+records = [
+    {k: (None if (v != v) else v) for k, v in row.items()}
+    for row in df.to_dict(orient="records")
+]
 print(f"  {len(records):,} rows to insert")
 
 # ---------------------------------------------------------------------------
