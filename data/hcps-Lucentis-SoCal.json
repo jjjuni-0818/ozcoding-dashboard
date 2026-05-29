@@ -1,0 +1,38 @@
+[
+  {
+    "npi": "1316980014",
+    "name": "Dr. Stephen Couvillion",
+    "specialty": "Ophthalmology",
+    "city": "Santa Barbara",
+    "region": "SoCal",
+    "cost": 53831,
+    "clms": 17,
+    "mom": -7,
+    "daysSinceVisit": 63,
+    "tag": null
+  },
+  {
+    "npi": "1689773244",
+    "name": "Dr. Alessandro Castellarin",
+    "specialty": "Ophthalmology",
+    "city": "Santa Barbara",
+    "region": "SoCal",
+    "cost": 43816,
+    "clms": 12,
+    "mom": -22,
+    "daysSinceVisit": 158,
+    "tag": "declining"
+  },
+  {
+    "npi": "1750382008",
+    "name": "Dr. Randall Nguyen",
+    "specialty": "Ophthalmology",
+    "city": "Long Beach",
+    "region": "SoCal",
+    "cost": 23406,
+    "clms": 11,
+    "mom": -36,
+    "daysSinceVisit": 129,
+    "tag": "declining"
+  }
+]

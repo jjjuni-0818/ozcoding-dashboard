@@ -1,0 +1,14 @@
+{
+  "brand": "Lucentis",
+  "region": "SoCal",
+  "asOf": "2025-12-31",
+  "cost": 121054,
+  "clms": 40,
+  "hcpCount": 3,
+  "rising": 0,
+  "lapsed": 0,
+  "declining": 2,
+  "vsLyCost": 12.4,
+  "vsLyClms": 8.1,
+  "vsLyHcp": -2.3
+}

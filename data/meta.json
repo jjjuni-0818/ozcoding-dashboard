@@ -1,0 +1,28 @@
+{
+  "brands": [
+    {
+      "id": "Entresto",
+      "label": "Entresto",
+      "ta": "Heart Failure",
+      "color": "#3257d4"
+    },
+    {
+      "id": "Cosentyx",
+      "label": "Cosentyx",
+      "ta": "Immunology",
+      "color": "#6a3acc"
+    },
+    {
+      "id": "Lucentis",
+      "label": "Lucentis",
+      "ta": "Retina",
+      "color": "#b8862a"
+    }
+  ],
+  "regions": [
+    "All",
+    "SoCal",
+    "Central",
+    "NorCal"
+  ]
+}

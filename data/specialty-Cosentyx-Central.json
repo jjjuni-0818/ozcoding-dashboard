@@ -1,0 +1,44 @@
+[
+  {
+    "specialty": "Dermatology",
+    "cost": 5897915,
+    "clms": 1101,
+    "hcps": 47
+  },
+  {
+    "specialty": "Rheumatology",
+    "cost": 3960188,
+    "clms": 550,
+    "hcps": 27
+  },
+  {
+    "specialty": "Physician Assistant",
+    "cost": 2702586,
+    "clms": 385,
+    "hcps": 15
+  },
+  {
+    "specialty": "Internal Medicine",
+    "cost": 977943,
+    "clms": 143,
+    "hcps": 5
+  },
+  {
+    "specialty": "Nurse Practitioner",
+    "cost": 620262,
+    "clms": 91,
+    "hcps": 6
+  },
+  {
+    "specialty": "Family Practice",
+    "cost": 89760,
+    "clms": 13,
+    "hcps": 1
+  },
+  {
+    "specialty": "Preventive Medicine",
+    "cost": 72091,
+    "clms": 11,
+    "hcps": 1
+  }
+]
