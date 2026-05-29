@@ -8,7 +8,6 @@ __pycache__/
 .env
 design-canvas.jsx
 data/
-frontend/data/
 screenshots/
 uploads/
 기획안.html

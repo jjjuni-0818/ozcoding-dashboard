@@ -40,6 +40,16 @@ def save(path: Path, obj) -> None:
 def main() -> None:
     print("[prebuild] generating static JSON for all brand × region combos …")
 
+    # 0) meta — brand/region list for the frontend brand switcher
+    save(OUT / "meta.json", {
+        "brands": [
+            {"id": "Entresto", "label": "Entresto", "ta": "Heart Failure", "color": "#3257d4"},
+            {"id": "Cosentyx", "label": "Cosentyx", "ta": "Immunology",   "color": "#6a3acc"},
+            {"id": "Lucentis", "label": "Lucentis", "ta": "Retina",       "color": "#b8862a"},
+        ],
+        "regions": ["All", "SoCal", "Central", "NorCal"],
+    })
+
     # 1) territory summary  — 브랜드 × 리전
     for brand in BRANDS:
         for region in REGIONS:
