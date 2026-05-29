@@ -4,6 +4,10 @@ scripts/prebuild.py
 백엔드 로직을 직접 import해서 모든 브랜드×리전 조합의 집계 결과를
 frontend/data/*.json으로 저장한다. GitHub Pages(정적 호스팅)용 프리렌더.
 
+NOTE: data.py가 Supabase로 전환된 이후에는 실행 전 .env에
+      SUPABASE_URL / SUPABASE_KEY 설정이 필요하다.
+      FastAPI 백엔드를 직접 서빙하는 경우 이 스크립트는 불필요하다.
+
 실행:
     cd /path/to/ozcoding-dashboard
     uv run --directory backend python scripts/prebuild.py
